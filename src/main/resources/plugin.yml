@@ -1,0 +1,7 @@
+name: AntiGhastGrief
+version: 1.0
+main: tools.tgb.AntiGhastGrief.AntiGhastGrief
+description: Simple plugin to disable ghast griefing
+api-version: 1.15
+author: tgb
+website: tgb.tools
